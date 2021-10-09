@@ -1,5 +1,5 @@
 # HumanMicrobiomeAnalysis
-R Shiny application for the vizualiation of data presented in the paper <b>Evaluation of Computational Methods for Human Microbiome Analysis Using Simulated Data (not yet published) </b>.  
+R Shiny application for the vizualiation of data presented in the paper <b>Evaluation of Computational Methods for Human Microbiome Analysis Using Simulated Data (https://peerj.com/articles/9688/) </b>.  
   R code written by Sandro Valenzuela.
 
 ![R Shiny app interface](interface.png)
